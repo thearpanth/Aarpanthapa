@@ -3,6 +3,8 @@ Find the derivative of f(x) = x^2.
 Find the derivative of f(x) = 3x^3.
 Find the derivative of f(x) = 1/x.
 Find the derivative of f(x) = sin(x).
+
+
 Find the derivative of f(x) = cos(x).
 Find the derivative of f(x) = tan(x).
 Find the derivative of f(x) = e^x.

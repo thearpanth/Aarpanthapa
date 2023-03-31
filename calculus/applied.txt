@@ -1,8 +1,13 @@
-Find the derivative of f(x) = sin(2x) + 3x^2 with respect to x.
-Evaluate the integral of f(x) = 2x + 3 from x = 1 to x = 5.
-Find the second derivative of f(x) = ln(x^2 + 1).
-Find the limit of g(x) = (2x + 1)/(x - 3) as x approaches 3.
-Find the area between the curves f(x) = x^2 and g(x) = x - 2.
+1. Find the derivative of f(x) = sin(2x) + 3x^2 with respect to x.
+
+2. Evaluate the integral of f(x) = 2x + 3 from x = 1 to x = 5.
+
+3. Find the second derivative of f(x) = ln(x^2 + 1).
+
+4.Find the limit of g(x) = (2x + 1)/(x - 3) as x approaches 3.
+
+5.Find the area between the curves f(x) = x^2 and g(x) = x - 2.
+
 Find the maximum and minimum values of f(x) = 3x^4 - 4x^3 + 6x^2 - 3x + 2 on the interval [-1, 2].
 A car is traveling at a constant speed of 60 km/h. How far does it travel in 2 hours?
 Find the equation of the tangent line to the curve y = e^x + 3x at the point (0, 4).
